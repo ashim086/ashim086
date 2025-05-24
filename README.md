@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashim086" alt="ashim086" /></a> </p>
 
-- 🌱 I’m currently learning **node_JS**
+- 🌱 I’m currently learning **WEB_APPS**
 
 - 💬 Ask me about **me Haha**
 
