@@ -33,22 +33,6 @@
 <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" />
 </div>
 
 ###
@@ -56,27 +40,21 @@
 <h3 align="center">Connect with me</h3>
 
 <div align="center">
-<a href="https://fb.com/ashim thapa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashim thapa" height="40" width="50" /></a>
+<a href="https://www.facebook.com/ashim.thapa.014/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashim thapa" height="40" width="50" /></a>
 <a href="https://instagram.com/ashim__thapa_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashim__thapa_" height="40" width="50" /></a>
-<a href="https://discord.gg/4EtJ8Bt9vf/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ashimmagar9694" height="40" width="50" /></a>
+<a href="https://discord.com/users/979281642042581002" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yamate2454" height="40" width="50" /></a>
 </div>
 
 ###
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashim086&show_icons=true&locale=en&layout=compact&theme=radical" alt="ashim086" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashim086&show_icons=true&locale=en&layout=compact&theme=radical" alt="ashim086" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashim086&show_icons=true&locale=en&theme=radical" alt="ashim086" height="200" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ashim086&show_icons=true&locale=en&theme=radical" alt="ashim086" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashim086&theme=radical" alt="ashim086" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ashim086&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="ashim086 trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashim086&theme=radical" alt="ashim086" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashim086&theme=radical&column=4&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="ashim086 trophies" width="49%" />
 </div>
 
 ###
