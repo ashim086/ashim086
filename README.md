@@ -58,10 +58,6 @@
       <td style="background-color: #000000; border: none;"><img src="https://github-profile-trophy.vercel.app/?username=ashim086&theme=radical&column=4&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="ashim086 trophies" height="165" /></td>
     </tr>
   </table>
-</div>al" alt="ashim086" height="165" /></td>
-      <td><img src="https://github-profile-trophy.vercel.app/?username=ashim086&theme=radical&column=4&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="ashim086 trophies" height="165" /></td>
-    </tr>
-  </table>
 </div>
 
 ###
