@@ -54,24 +54,24 @@
 </div>
 
 ---
-
 <div align="center">
-  <table style="background-color: #000; border: none;">
+  <table style="background-color:#000; border:none; width:100%;">
     <tr>
-      <td style="border: none;">
+      <td style="border:none;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashim086&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=000000&hide_border=true" alt="Top Languages" height="165" />
       </td>
-      <td style="border: none;">
+      <td style="border:none;">
         <img src="https://github-readme-stats.vercel.app/api?username=ashim086&show_icons=true&locale=en&theme=radical&bg_color=000000&hide_border=true" alt="GitHub Stats" height="165" />
       </td>
     </tr>
     <tr>
-      <td style="border: none;">
+      <td style="border:none;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashim086&theme=radical&background=000000&hide_border=true" alt="Streak Stats" height="165" />
       </td>
-      <td style="border: none;">
-        <img src="https://github-profile-trophy.vercel.app/?username=ashim086&theme=radical&no-frame=true&no-bg=false&margin-w=8&margin-h=8&background=000000" alt="GitHub Trophies" height="165" />
+      <td style="border:none;">
+        <img src="https://github-profile-trophy.vercel.app/?username=ashim086&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&background=000000" alt="GitHub Trophies" height="165" />
       </td>
     </tr>
   </table>
 </div>
+
