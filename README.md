@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashim</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif">
+<img align="right" alt="Coding" width="400" src="http://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashim086&label=Profile%20views&color=0e75b6&style=flat" alt="ashim086" /> </p>
 
