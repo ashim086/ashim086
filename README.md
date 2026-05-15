@@ -16,7 +16,6 @@
 
 Full Stack Developer specializing in **MERN stack, Next.js, and TypeScript** with hands-on experience building scalable web applications, payment integrations, and role-based platforms. Passionate about developing secure APIs, modern UI systems, and cloud-deployed applications.
 
-- 🏢 Currently working as **Junior Frontend Developer** at [IOXET Pvt. Ltd.](https://ioxet.com)
 - 🎓 Pursuing **BCA** at Patan Multiple Campus, Lalitpur
 - 🔐 Experienced with **JWT, OAuth, WebSocket, and payment gateways (eSewa, Khalti)**
 - 📫 Reach me at **magarashim69086@gmail.com**
