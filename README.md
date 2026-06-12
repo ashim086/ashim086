@@ -60,3 +60,9 @@ Full Stack Developer specializing in **MERN stack, Next.js, and TypeScript** wit
 ![Snake animation](https://raw.githubusercontent.com/ashim086/ashim086/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Akshay090/svg-banners/main/svg/gradient-wave.svg" />
+
+</div>
