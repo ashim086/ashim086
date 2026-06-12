@@ -52,15 +52,3 @@ Full Stack Developer specializing in **MERN stack, Next.js, and TypeScript** wit
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/ashim086/ashim086/output/github-contribution-grid-snake-dark.svg)
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+Systems+%E2%9A%A1;Writing+Clean+Code+%F0%9F%92%BB;Scaling+Backend+APIs+%F0%9F%9A%80;Crafting+Full+Stack+Products" />
-
-</div>
